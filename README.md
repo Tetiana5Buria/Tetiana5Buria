@@ -4,7 +4,7 @@
 
 # Hello! 👋
 
-My name is [Tetiana]
+My name is Tetiana
 
 ## 🛠️ My Technologies
 
