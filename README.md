@@ -15,5 +15,5 @@ My name is Tetiana
 - Responsive and cross-browser design.
 - Creating SPA (Single Page Applications).
 - Performance optimization.
-![Communicate using Markdown](https://github.com/skills/communicate-using-markdown/actions/workflows/main.yml/badge.svg)
+![HELLO!] (https://img.freepik.com/fotos-premium/acogedoramente-riendo-sonriendo-sonriendo-mentir-ronroneando-gato-cartel-papel-pared-imagen-fondo_985204-6353.jpg)
 
