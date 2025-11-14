@@ -15,5 +15,5 @@ My name is Tetiana
 - Responsive and cross-browser design.
 - Creating SPA (Single Page Applications).
 - Performance optimization.
-
+![Communicate using Markdown](https://github.com/skills/communicate-using-markdown/actions/workflows/main.yml/badge.svg)
 
