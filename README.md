@@ -1,9 +1,9 @@
 
 # Hello! 👋
 
-My name is Tetiana
+##My name is Tetiana
 
-## 🛠️ My Technologies
+#### 🛠️ My Technologies
 
 ### Frontend
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -15,5 +15,5 @@ My name is Tetiana
 - Responsive and cross-browser design.
 - Creating SPA (Single Page Applications).
 - Performance optimization.
-![HELLO!] (https://img.freepik.com/fotos-premium/acogedoramente-riendo-sonriendo-sonriendo-mentir-ronroneando-gato-cartel-papel-pared-imagen-fondo_985204-6353.jpg)
+
 
