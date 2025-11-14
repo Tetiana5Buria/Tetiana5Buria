@@ -16,4 +16,4 @@
 - Creating SPA (Single Page Applications).
 - Performance optimization.
 
-![HELLO!](https://img.freepik.com/fotos-premium/acogedoramente-riendo-sonriendo-sonriendo-mentir-ronroneando-gato-cartel-papel-pared-imagen-fondo_985204-6353.jpg)
+![HELLO!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshop.vsimosvita.com%2Fproducts%2Fpidsumkova-robota-za-grupoyu-rezultativ-4-za-temoyu-zapovid-lyubovy-bibliya-j-ukrayinska-literatura%2F&psig=AOvVaw3ys1CsHIApBOmt0fs0NlhQ&ust=1763207032169000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKDv25nI8ZADFQAAAAAdAAAAABAV)
